@@ -1,5 +1,5 @@
 # freepaint
  
-Open Source Paint Program
+Open Source Minimalist Paint Program
 
 https://phasmetodea.wixsite.com/freepaint
